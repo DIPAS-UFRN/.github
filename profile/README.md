@@ -8,13 +8,7 @@ Our mission is to research, develop and promote digital image processing algorit
 
 ## Our Team
 
-The DIPAS team is composed of researchers from the UFRN, experts in the field of digital image processing and agricultural science. Our team is made up of:
-
-| Name | Role |
-| --- | --- |
-| Dra. Alessandra Mendes | Lead Researcher and Professor at UFRN |
-| Luan Magioli | Researcher and Master Student at UFRN |
-| Yuri Felipe | Researcher and Systems Analyst |
+The DIPAS team is composed of researchers from the UFRN, experts in the field of digital image processing and agricultural science. 
 
 ## Our Research
 
